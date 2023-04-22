@@ -1,2 +1,3 @@
-# ts-quick-ref
+# TypeScript quick reference
+
 TypeScript quick reference
