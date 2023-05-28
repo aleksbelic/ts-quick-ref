@@ -4,6 +4,7 @@
   "description": "TypeScript quick reference",
   "main": "index.js",
   "scripts": {
+    "tsc": "tsc",
     "pretty": "npx prettier --write .",
     "check": "npx prettier --check .",
     "test": "echo \"Error: no test specified\" && exit 1"
